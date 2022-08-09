@@ -12,7 +12,7 @@
 
 流程流转图如下图所示，流程流转依赖双方邮件及附件的传递。
 
-安全团队邮箱：
+安全团队邮箱：secservice@avic.com
 
 云平台运维邮箱：cloudservice@avic.com
 
