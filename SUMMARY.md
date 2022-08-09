@@ -6,11 +6,11 @@
 * [流程](liu-cheng.md)
   * [1、VPN堡垒机](liu-cheng/vpnbao-lei-ji.md)
   * [2、互访关系](liu-cheng/23001-hu-fang-guan-xi.md)
-  * 3、资源开通
-  * 4、域名申请
-  * 5、应用上云
-  * 6、应用集成
-  * 7、专线接入申请
+  * [3、资源开通](liu-cheng/33001-zi-yuan-kai-tong.md)
+  * [4、域名申请](liu-cheng/43001-yu-ming-shen-qing.md)
+  * [5、应用上云](liu-cheng/53001-ying-yong-shang-yun.md)
+  * [6、应用集成](liu-cheng/63001-ying-yong-ji-cheng.md)
+  * [7、专线接入申请](liu-cheng/73001-zhuan-xian-jie-ru-shen-qing.md)
 * [常见问题](chang-jian-wen-ti.md)
   * [1、VPN堡垒机相关](chang-jian-wen-ti/1vpnbao-lei-ji-xiang-guan.md)
   * [2、服务器相关](chang-jian-wen-ti/23001-fu-wu-qi-xiang-guan.md)
