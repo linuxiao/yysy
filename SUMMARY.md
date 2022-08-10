@@ -3,6 +3,7 @@
 * [简介](README.md)
 * [安全限制](an-quan-xian-zhi.md)
 * [实施](chapter1.md)
+* [快速上手](kuai-su-shang-shou.md)
 * [流程](liu-cheng.md)
   * [1、VPN堡垒机](liu-cheng/vpnbao-lei-ji.md)
   * [2、互访关系](liu-cheng/23001-hu-fang-guan-xi.md)
