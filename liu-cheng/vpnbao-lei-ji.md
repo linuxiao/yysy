@@ -4,7 +4,7 @@ vpn是给企业运维人员分配的VPN账号，用户访问商密云上的堡�
 
 # 申请步骤
 
-VPN申请，填下[**《VPN申请表》**](/assets/VPN开通申请表.xlsx)发生邮箱**cloudservice@avic.com**
+VPN申请，填下[**《VPN申请表》**](/assets/VPN开通申请表.xlsx)发送邮箱**cloudservice@avic.com**
 
 | 公司 | 姓名 | 电话 | 邮箱 | 账号期限 | 账号类别 | 访问资源\[协议:端口\] |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
