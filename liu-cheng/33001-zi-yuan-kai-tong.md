@@ -16,7 +16,7 @@
 
 ![](/assets/Redis.png)
 
+OSS分布式对象存储，需要填写Bucket/容量/协议
 
-
-OSS分布式对象存储，需要填写Bucket/容量/协议 
+![](/assets/OSS.png)
 
