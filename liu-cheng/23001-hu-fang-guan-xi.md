@@ -4,7 +4,7 @@
 
 # 申请步骤
 
-互相访问申请，填下[**《互访关系申请表》**](/assets/xxxx系统-商网专有云-应用部署网络资源调研表-V3.2.xlsx)发生邮箱**cloudservice@avic.com**
+互相访问申请，填下[**《互访关系申请表》**](/assets/xxxx系统-商网专有云-应用部署网络资源调研表-V3.2.xlsx)发送邮箱**cloudservice@avic.com**
 
 ![](/assets/互访关系表格.png)
 
