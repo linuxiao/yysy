@@ -4,5 +4,5 @@
 
 # 申请步骤
 
-资源开通申请，填下[**《互访关系申请表》**](/assets/xxxx系统-商网专有云-应用部署网络资源调研表-V3.2.xlsx)发生邮箱**cloudservice@avic.com**
+资源开通申请，填下[**《商网专有云-应用部署资源申请》**](/assets/xxxx系统-商网专有云-应用部署资源申请-V3.0.xlsx)发生邮箱**cloudservice@avic.com**
 
