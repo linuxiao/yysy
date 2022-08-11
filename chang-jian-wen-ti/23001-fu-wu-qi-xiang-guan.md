@@ -20,7 +20,53 @@ A：密码需妥善保存，若处理不了。发送邮箱**cloudservice@avic.co
 
 ## Centos服务器挂载数据盘？
 
-A：
+1、查看当前系统磁盘挂载情况
+
+df -h
+
+![](/assets/d1.png)
+
+2、 查找数据盘
+
+fdisk -l
+
+![](/assets/d2.png)
+
+ 发现 磁盘 /dev/xvde是新增的数据盘
 
 
+
+3、分区
+
+fdisk /dev/xvde
+
+输入n后回车，接下来的操作全部回车默认即可
+
+完成后输入p，回车，查看新建分区的详细信息
+
+接着再输入w保存，将分区结果写入分区表中
+
+执行命令partprobe，将新的分区表变更同步至操作系统。
+
+4、格式化
+
+mkfs -t ext4 /dev/xvde1
+
+5、挂载到指定目录
+
+mount /dev/xvde1 /data
+
+7、开机自动挂载
+
+blkid /dev/xvde1 查看磁盘的UUID
+
+![](/assets/d6.png)
+
+ vi /etc/fstab 编辑 /etc/fstab
+
+![](/assets/d7.png)
+
+ 保存即完成！
+
+————————————————
 
