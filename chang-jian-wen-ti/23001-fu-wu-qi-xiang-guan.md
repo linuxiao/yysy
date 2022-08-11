@@ -68,7 +68,7 @@ vi /etc/fstab 编辑 /etc/fstab
 
 ————————————————
 
-## 云内yum源
+## 云内yum源？
 
 
 
