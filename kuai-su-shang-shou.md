@@ -16,7 +16,33 @@
 
 ### 2.1，登录vpn及堡垒机。
 
-在浏览器中输入
+1.下载VPN客户端[https://43.254.89.14:8443/](https://43.254.89.14:8443/)，下载完成后“**以管理员身份运行**”安装。
+
+![](file:///C:\Users\Lenovo\AppData\Local\Temp\ksohtml4816\wps1.jpg)
+
+
+
+2.登陆VPN，使用分配的用户名及初始密码登录，首次登录需提交终端绑定，修改个人密码。
+
+![](file:///C:\Users\Lenovo\AppData\Local\Temp\ksohtml4816\wps2.jpg)
+
+![](file:///C:\Users\Lenovo\AppData\Local\Temp\ksohtml4816\wps3.jpg)
+
+![](file:///C:\Users\Lenovo\AppData\Local\Temp\ksohtml4816\wps4.jpg)
+
+![](file:///C:\Users\Lenovo\AppData\Local\Temp\ksohtml4816\wps5.jpg)
+
+
+
+3.点击堡垒机访问链接
+
+![](file:///C:\Users\Lenovo\AppData\Local\Temp\ksohtml4816\wps6.jpg)
+
+![](file:///C:\Users\Lenovo\AppData\Local\Temp\ksohtml4816\wps7.jpg)
+
+
+
+4.堡垒机操作详见堡垒机用户手册
 
 ### 2.2，登录服务器。
 
