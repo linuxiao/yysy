@@ -32,9 +32,7 @@ fdisk -l
 
 ![](/assets/d2.png)
 
- 发现 磁盘 /dev/xvde是新增的数据盘
-
-
+发现 磁盘 /dev/xvde是新增的数据盘
 
 3、分区
 
@@ -62,11 +60,15 @@ blkid /dev/xvde1 查看磁盘的UUID
 
 ![](/assets/d6.png)
 
- vi /etc/fstab 编辑 /etc/fstab
+vi /etc/fstab 编辑 /etc/fstab
 
 ![](/assets/d7.png)
 
- 保存即完成！
+保存即完成！
 
 ————————————————
+
+## 云内yum源
+
+
 
