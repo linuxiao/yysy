@@ -18,7 +18,6 @@
   * [3、网络相关](chang-jian-wen-ti/33001-wang-luo-xiang-guan.md)
   * [4、安全相关](chang-jian-wen-ti/43001-an-quan-xiang-guan.md)
   * [5、应急与响应](chang-jian-wen-ti/53001-ying-ji-yu-xiang-ying.md)
-  * [6、应用相关](chang-jian-wen-ti/63001-ying-yong-xiang-guan.md)
 * [售前](shou-qian.md)
   * [报价](shou-qian/bao-jia.md)
   * [服务介绍](shou-qian/fu-wu-jie-shao.md)
