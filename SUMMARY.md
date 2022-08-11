@@ -22,5 +22,8 @@
   * [报价](shou-qian/bao-jia.md)
   * [服务介绍](shou-qian/fu-wu-jie-shao.md)
 * [咨询](zi-xun.md)
+  * [疑难杂症咨询](zi-xun/yi-nan-za-zheng.md)
+  * [安全咨询](zi-xun/an-quan-zi-xun.md)
+  * [应用实施咨询](zi-xun/ying-yong-shi-shi-zi-xun.md)
 * [资料下载](zi-liao-xia-zai.md)
 
