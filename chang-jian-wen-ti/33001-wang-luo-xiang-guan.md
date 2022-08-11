@@ -12,5 +12,5 @@
 
 服务器应用存活-》外网SLB配置-》零信任网关配置-》WAF防火墙配置
 
-![](/assets/net.png)
+![](/assets/net.png)应用
 
