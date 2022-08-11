@@ -70,5 +70,13 @@ vi /etc/fstab 编辑 /etc/fstab
 
 ## 云内yum源？
 
+基于安全方面考虑默认情况云主机无主动访问互联网权限。云平台有针对centos7的内网yum仓库，此仓库定期同步阿里互联网yum仓库。可通过命令 
 
+```
+wget http://oss-cn-beijing-zhjw-d01-a.ops.console.avic-internal.com/sw-yum/centos/centos.repo -O    /etc/yum.repos.d/centos.repo
+```
+
+
+
+下载内网yum配置文件到云主机，并删除/etc/yum.repos.d下其它.repo文件，即可访问内网yum仓库。如内网仓库无法满足使用，可提交访问清单按需要开通互联网访问权限。需要联系管理员。正文包含事由、公司名称、办理内容，发送邮箱**cloudservice@avic.com**
 
