@@ -27,6 +27,6 @@
   * [应用实施咨询](zi-xun/ying-yong-shi-shi-zi-xun.md)
 * [资料下载](zi-liao-xia-zai.md)
   * [表格](zi-liao-xia-zai/biao-ge.md)
-  * 软件
+  * [软件](zi-liao-xia-zai/ruan-jian.md)
   * 文档
 
