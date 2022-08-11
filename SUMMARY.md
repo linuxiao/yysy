@@ -15,7 +15,7 @@
 * [常见问题](chang-jian-wen-ti.md)
   * [1、VPN堡垒机相关](chang-jian-wen-ti/1vpnbao-lei-ji-xiang-guan.md)
   * [2、服务器相关](chang-jian-wen-ti/23001-fu-wu-qi-xiang-guan.md)
-  * 3、网络相关
+  * [3、网络相关](chang-jian-wen-ti/33001-wang-luo-xiang-guan.md)
   * 4、安全相关
   * 5、应急与响应
   * 6、应用相关
