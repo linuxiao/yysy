@@ -10,5 +10,7 @@
 
 # 软件
 
-《XShell》 
+《XShell》
+
+《Xftp》
 
