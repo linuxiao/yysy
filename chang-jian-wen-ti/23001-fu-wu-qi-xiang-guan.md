@@ -79,3 +79,5 @@ wget http://oss-cn-beijing-zhjw-d01-a.ops.console.avic-internal.com/sw-yum/cento
 下载内网yum配置文件到云主机，并删除/etc/yum.repos.d下其它.repo文件，即可访问内网yum仓库。  
 如内网仓库无法满足使用，可提交访问清单按需要开通互联网访问权限。联系管理员。正文包含事由、公司名称、办理内容，发送邮箱**cloudservice@avic.com**
 
+
+
