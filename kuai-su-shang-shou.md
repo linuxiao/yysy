@@ -1,82 +1,86 @@
-# 场景模拟
+# 快速上手
 
-公司A，部署一套前后端分离的应用，应用名称质量系统，对外以app.abc.com域名发布，在商密网上，最终用户访问到的是[https://app.abc.com。](https://app.abc.com。)
+## 场景模拟
 
-# 实施过程
+公司A，部署一套前后端分离的应用，应用名称质量系统，对外以app.abc.com域名发布，在商密网上，最终用户访问到的是[https://app.abc.com。](https://app.abc.com)
 
-## 1、申请开通服务器资源
+## 实施过程
+
+### 1、申请开通服务器资源
 
 例如：需要开通2台4核8G/100G系统/500G数据盘ECS。运维人员张三、李四。
 
-填下[**《商网专有云-应用部署资源申请》**](/assets/xxxx系统-商网专有云-应用部署资源申请-V3.0.xlsx)发送邮箱**cloudservice@avic.com，并抄送相关商务。**![](/assets/示例2.png)运维办理后，会回复邮件。里面附带Excel，输入密码后，可以看到2台服务器的IP地址，账号密码。
+填下[**《商网专有云-应用部署资源申请》**](assets/xxxx%E7%B3%BB%E7%BB%9F-%E5%95%86%E7%BD%91%E4%B8%93%E6%9C%89%E4%BA%91-%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E8%B5%84%E6%BA%90%E7%94%B3%E8%AF%B7-V3.0.xlsx)发送邮箱**cloudservice@avic.com，并抄送相关商务。**运维办理后，会回复邮件。里面附带Excel，输入密码后，可以看到2台服务器的IP地址，账号密码。
+
+![](assets/示例2.png)
 
 商网-质量系统应用01，10.x.x.2，user/password。vpn的账号密码及登录地址。
 
-## 2、部署应用
+### 2、部署应用
 
-### 2.1，登录vpn及堡垒机。
+#### 2.1，登录vpn及堡垒机。
 
 1.下载VPN客户端[https://43.254.89.14:8443/](https://43.254.89.14:8443/)，下载完成后“**以管理员身份运行**”安装。
 
-![](/assets/vpn1.png)
+![](assets/vpn1.png)
 
 2.登陆VPN，使用分配的用户名及初始密码登录，首次登录需提交终端绑定，修改个人密码。
 
-![](/assets/vpn2.png)
+![](assets/vpn2.png)
 
-![](/assets/vpn3.png)
+![](assets/vpn3.png)
 
-![](/assets/vpn4.png)
+![](assets/vpn4.png)
 
-![](/assets/vpn5.png)
+![](assets/vpn5.png)
 
 3.点击堡垒机访问链接
 
-![](/assets/vpn6.png)
+![](assets/vpn6.png)
 
-![](/assets/vpn7.png)
+![](assets/vpn7.png)
 
 4.堡垒机操作详见堡垒机用户手册
 
-![](/assets/b1.png)
+![](assets/b1.png)
 
-![](/assets/b2.png)
+![](assets/b2.png)
 
-### 2.2，登录服务器。
+#### 2.2，登录服务器。
 
-![](/assets/b3.png)
+![](assets/b3.png)
 
-### 2.3，上传安装文件。
+#### 2.3，上传安装文件。
 
 > windows 系统，直接复制粘贴。
 >
 > linux 系统，使用本地客户端，xshell
 
-### 2.4，安装部署软件。
+#### 2.4，安装部署软件。
 
 此处不展开
 
-### 2.5，导入数据库数据文件。
+#### 2.5，导入数据库数据文件。
 
 此处不展开
 
-### 2.6，验证部署完成。
+#### 2.6，验证部署完成。
 
 此处不展开
 
-### 2.7，申请应用漏扫。
+#### 2.7，申请应用漏扫。
 
-邮件填写如下信息，及附件《[应用部署网络资源调研表-V3.2.xlsx](/assets/xxxx系统-商网专有云-应用部署网络资源调研表-V3.2.xlsx)》发送邮箱**cloudservice@avic.com**
+邮件填写如下信息，及附件《[应用部署网络资源调研表-V3.2.xlsx](assets/xxxx%E7%B3%BB%E7%BB%9F-%E5%95%86%E7%BD%91%E4%B8%93%E6%9C%89%E4%BA%91-%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E7%BD%91%E7%BB%9C%E8%B5%84%E6%BA%90%E8%B0%83%E7%A0%94%E8%A1%A8-V3.2.xlsx)》发送邮箱**cloudservice@avic.com**
 
 中航金网安全部门测试后
 
-## 3、安全整改
+### 3、安全整改
 
 3.1，修复漏扫问题。
 
 3.2，申请复测。
 
-## 4、解析上线（域名已备案）
+### 4、解析上线（域名已备案）
 
 4.1，协助购买SSL证书
 
@@ -88,5 +92,4 @@
 
 4.3，验证应用
 
-登录[https://app.abc.com验证应用是否正常。](https://app.abc.com验证应用是否正常。)
-
+登录[https://app.abc.com验证应用是否正常。](https://app.abc.xn--com-o63ek47bzpa393br8jb8v2u5cg97a)
